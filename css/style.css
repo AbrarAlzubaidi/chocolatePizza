@@ -1,0 +1,73 @@
+body  {
+width: auto;
+}
+
+header {
+  display: grid ;  grid-template-columns: auto auto auto ; width: auto;
+}
+
+
+
+main {
+    width: 900px; margin: auto; margin-top: 50px; margin-bottom: 50px; 
+}
+
+
+.Article1 h1 {
+  font-size: 40px;   
+}
+
+
+.Article1 p {
+    color: grey; margin-bottom: 20px; 
+  }
+
+
+
+  .Article1 img {
+    margin-bottom: 10px ;  
+  }
+
+
+  .Article2 p {
+   margin-top: 30px; width: auto ;
+  } 
+
+
+  
+  .Article2 img {
+    margin: 20px; width: auto;
+   } 
+ 
+
+  section {
+       display: grid ; grid-template-columns: 100px auto auto ; gap: 5px; 
+
+   }
+
+   section img {
+       float: left; 
+   }
+
+    section h3 {
+        font-weight: 800;
+    }
+
+    section button {
+        background-color: brown ;
+        color: cornsilk;
+        font-size: 25px;
+    }
+
+   footer {
+       text-align: center;
+   }
+
+
+
+
+
+   
+
+
+
